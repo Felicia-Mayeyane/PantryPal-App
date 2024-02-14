@@ -3,6 +3,8 @@ PantryPal is a web application designed to help users find delicious meal ideas 
 
 <h2>Video Demo </h2>
 
+https://github.com/Felicia-Mayeyane/PantryPal-App/assets/119903285/d405eafb-ab69-4f3c-b2a7-9fca41b9d70c
+
 
 <h3>Key Features:</h3>
 <ul>
